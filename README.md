@@ -26,5 +26,8 @@ Anonimato en la Web: Al cambiar la MAC, puede dificultar que los sitios web y se
 2. Instalar los requisitos:
 - pip install -r requirements.txt
 
+![Captura de pantalla (10)](https://github.com/user-attachments/assets/36169d7b-af03-4107-b97a-4b0b74fb1772)
+  
+
 ## Autor
 -puerto4444
