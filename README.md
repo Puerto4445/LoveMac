@@ -15,7 +15,6 @@ Anonimato en la Web: Al cambiar la MAC, puede dificultar que los sitios web y se
 - signal
 - re
 - Time
-- tqdm
 - pyfiglet
 
 ## Instalación
