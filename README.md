@@ -14,7 +14,6 @@ Anonimato en la Web: Al cambiar la MAC, puede dificultar que los sitios web y se
 - subprocess
 - signal
 - re
-- Time
 - pyfiglet
 
 ## Instalación
@@ -25,8 +24,7 @@ Anonimato en la Web: Al cambiar la MAC, puede dificultar que los sitios web y se
 2. Instalar los requisitos:
 - pip install -r requirements.txt
 
-![Captura de pantalla (10)](https://github.com/user-attachments/assets/36169d7b-af03-4107-b97a-4b0b74fb1772)
-  
+![LoveMac](https://github.com/user-attachments/assets/b2423a57-f2bd-4dbb-9186-a5f90df4cbae)
 
 ## Autor
 -puerto4444
