@@ -21,7 +21,7 @@ class MACChanger:
         Args:  
             text (str): Text to be displayed in the banner  
         """  
-        figlet = Figlet(font="5lineoblique")  
+        figlet = Figlet(font="nancyj-underlined")  
         ascii_art = figlet.renderText(text)  
         
         try:  
