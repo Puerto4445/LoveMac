@@ -1,6 +1,4 @@
 # LoveMac
-Privacidad en Redes Públicas: Cuando se conecta a redes Wi-Fi públicas, es posible que los proveedores de servicios de Internet o terceros malintencionados intenten rastrear las actividades de un usuario. Cambiar la MAC puede ayudar a proteger la privacidad en estas situaciones.
-
 Herramienta para automatizar el cambio de dirección MAC en interfaces de red bajo sistemas GNU/Linux. Ideal para MAC Spoofing pruebas de seguridad, auditorías de red y entornos de laboratorio.
 
 ## Requisitos
